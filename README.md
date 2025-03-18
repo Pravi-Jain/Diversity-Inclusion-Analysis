@@ -1,9 +1,10 @@
 # Diversity-Inclusion-Analysis
+Analysis of Diversity and its impact on the Company.
 
-##Power BI Dashboard for Analysis
+#Power BI Dashboard for Analysis
 
-#Key Insights
-###
+###Key Insights
+
 <img width="663" alt="HR_Manager_Dashboard_1" src="https://github.com/user-attachments/assets/d9b2ba86-0a96-4daf-90ed-6c16307412e0" />
 
 
